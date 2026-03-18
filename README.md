@@ -46,4 +46,5 @@ The trained model was saved to `Boston housing dataset.pkl` using the `joblib` l
     ```
 3.  Run the code in the Jupyter Notebook or Colab to prepare the data, train, evaluate, and save the model. ▶️
 4.  You can load the saved model `Boston housing dataset.pkl` and use it to predict new house prices. 🔮
+
 ```
